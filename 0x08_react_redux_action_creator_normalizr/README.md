@@ -36,6 +36,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 5. Create actions for the notification list
 * [x] 6. Bound the actions
 * [x] 7. Async Action Creators
-
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
